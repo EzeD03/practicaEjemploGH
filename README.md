@@ -2,4 +2,4 @@
 
 ## Ezequiel G.
 
-aprendiendo a crear una nueva rama en el repositorio.
+· Aprendiendo a crear una nueva rama en el repositorio.
